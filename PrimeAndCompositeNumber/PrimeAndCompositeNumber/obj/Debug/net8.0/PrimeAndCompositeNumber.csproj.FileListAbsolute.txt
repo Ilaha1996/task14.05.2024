@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\bin\Debug\net8.0\PrimeAndCompositeNumber.exe
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\bin\Debug\net8.0\PrimeAndCompositeNumber.deps.json
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\bin\Debug\net8.0\PrimeAndCompositeNumber.runtimeconfig.json
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\bin\Debug\net8.0\PrimeAndCompositeNumber.dll
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\bin\Debug\net8.0\PrimeAndCompositeNumber.pdb
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\PrimeAndCompositeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\PrimeAndCompositeNumber.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\PrimeAndCompositeNumber.AssemblyInfo.cs
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\PrimeAndCompositeNumber.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\PrimeAndCompositeNumber.dll
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\refint\PrimeAndCompositeNumber.dll
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\PrimeAndCompositeNumber.pdb
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\PrimeAndCompositeNumber.genruntimeconfig.cache
+C:\Users\USER\source\repos\PrimeAndCompositeNumber\PrimeAndCompositeNumber\obj\Debug\net8.0\ref\PrimeAndCompositeNumber.dll
